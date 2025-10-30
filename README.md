@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ludago
 
-- 🌱 I’m currently learning ...
+- 🌱 Siempre  learning ...
 
+Tecnologias: flutter-html-css-js-python-c-c++-godot 
 
 
 <!---
